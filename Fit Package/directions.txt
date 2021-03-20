@@ -1,0 +1,3 @@
+1. Download folder.
+2. Open Cutout.ipynb, Mask.ipynb, and Fit.ipynb, and change "dir_in = ..." to directory of the folder.
+3. Set start and end values, and run Cutout.ipynb, Mask.ipynb, and Fit.ipynb consecutively.
