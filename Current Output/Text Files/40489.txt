@@ -1,0 +1,60 @@
+# RA, Dec: 181.601961, -0.649357
+# Mean sky background: -0.000574
+# Uncertainty of sky background: 0.044581
+# Major axis length: 42.130813 pixel
+# Minor axis length: 39.528803 pixel
+# Position angle: 129.528803
+
+Sersic:
+# Chi2 statistics: 653273.647676
+# Reduced Chi2 statistics: 1.376771
+# AIC statistics: 653287.647912
+# BIC statistics: 653365.137854
+
+# Best fit parameter values:
+   X0_1   : 361.764828
+   Y0_1   : 357.557632
+   PA_1   : 47.279746
+   ell_1  : 0.238338
+   n_1    : 4.339595
+   I_e_1  : 4.028095
+   r_e_1  : 12.636542
+
+Sersic + Sersic:
+# Chi2 statistics: 814083.737279
+# Reduced Chi2 statistics: 1.715695
+# AIC statistics: 814107.737937
+# BIC statistics: 814240.577583
+
+# Best fit parameter values:
+   X0_1   : 361.759555
+   Y0_1   : 357.500882
+   PA_1   : 16.555209
+   ell_1  : 0.998345
+   n_1    : 0.621759
+   I_e_1  : 13.267988
+   r_e_1  : 34.817887
+   PA_2   : 45.598107
+   ell_2  : 0.381740
+   n_2    : 4.745046
+   I_e_2  : 4.142897
+   r_e_2  : 13.230676
+
+Exponential + Sersic:
+# Chi2 statistics: 601984.977337
+# Reduced Chi2 statistics: 1.268691
+# AIC statistics: 602006.977894
+# BIC statistics: 602128.747616
+
+# Best fit parameter values:
+   X0_1   : 361.775000
+   Y0_1   : 357.525000
+   PA_1   : -76.464552
+   ell_1  : 0.973683
+   I_0_1  : 5.445007
+   h_1    : 11.539897
+   PA_2   : 48.579519
+   ell_2  : 0.281556
+   n_2    : 4.862235
+   I_e_2  : 2.719210
+   r_e_2  : 16.053751
