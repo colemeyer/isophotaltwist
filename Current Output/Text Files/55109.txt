@@ -1,6 +1,0 @@
-# RA, Dec: 180.527995, -0.241493
-# Mean sky background: 0.010133
-# Uncertainty of sky background: 0.057865
-# Major axis length: 34.381799 pixel
-# Minor axis length: 32.023275 pixel
-# Position angle: 122.023275
