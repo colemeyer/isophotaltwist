@@ -12,3 +12,5 @@
           Solver –> 'NM'
           Center of galaxy bounds –> [center of image] +/- 20
       Implemented try/except function to prevent halted program. Separated output into 3 separate CSV files, according to model.
+      
+2.3 – Removed ring from masks and updated outputs.
